@@ -4,7 +4,7 @@ public class IfElseIfExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int marks=90; 
+int marks=80; 
 if(marks<50) {
 	System.out.println("Fail");
 }
